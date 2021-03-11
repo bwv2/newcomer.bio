@@ -1,2 +1,1 @@
-# itsmewulf.github.io
-A personal website.
+# Hang tight, I'm no frontend genius
